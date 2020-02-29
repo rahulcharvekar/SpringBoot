@@ -25,7 +25,6 @@ public class Author {
 			)
 	private Set<Book> books;
 	
-	
 	public int getId() {
 		return id;
 	}
